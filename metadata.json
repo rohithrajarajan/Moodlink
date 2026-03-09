@@ -1,0 +1,7 @@
+{
+  "name": "MoodLink AI",
+  "description": "A web-based AI prototype for mental health monitoring using webcam analysis and Gemini Flash to estimate emotion, stress, and cognitive load.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
